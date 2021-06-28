@@ -55,6 +55,8 @@ public class Shape {
             new int[]{0, 0, 0, 1}
     );
 
+    public static final Shape[] TETROMINOES = new Shape[]{L, mL, S, Z, I, O, T};
+
     /*
 
     Tiles:
